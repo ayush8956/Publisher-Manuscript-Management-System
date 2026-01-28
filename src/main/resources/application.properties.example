@@ -1,0 +1,18 @@
+spring.datasource.url=
+spring.datasource.username=
+spring.datasource.password=
+
+spring.jpa.hibernate.ddl-auto=
+spring.jpa.show-sql=
+spring.jpa.properties.hibernate.dialect=
+
+server.port=
+
+# Swagger/OpenAPI Configuration
+springdoc.api-docs.path=/v3/api-docs
+springdoc.swagger-ui.path=/swagger-ui.html
+springdoc.swagger-ui.enabled=true
+springdoc.api-docs.enabled=true
+
+logging.level.org.springdoc=DEBUG
+logging.level.org.springframework.web=DEBUG
